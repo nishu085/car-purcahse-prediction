@@ -1,0 +1,2 @@
+# car-purcahse-prediction
+ Car Purchase Amount Prediction using ANN  This project develops an Artificial Neural Network (ANN) model to predict the total dollar amount that customers are willing to pay for a car based on various attributes.  Problem Statement: As a car salesman, you need to estimate the purchase amount that customers are likely to spend. The prediction is based on the following attributes:  Customer Name Customer E-mail Country Gender Age Annual Salary Credit Card Debt Net Worth
